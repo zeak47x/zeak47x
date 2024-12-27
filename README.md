@@ -7,6 +7,7 @@
 -[Python Password Generator](https://github.com/zeak47x/Password-Generator-PYTHON)
 <h2>🛡️Cybersecurity Projects</h2>
 
+-[Raspberry Pi Bad USB](https://github.com/zeak47x/BADUSB-RASP-PI-PICO) 
 
 
 <h2> 🤳 Connect with me:</h2>
