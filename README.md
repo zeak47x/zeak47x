@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zach!
+<h1>Hi, I'm Zeak!
 
 <h2>👨‍💻 Programing Projects:</h2>
 
