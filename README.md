@@ -19,8 +19,8 @@
 
 
 
-<h2>What I'm up to!</h2>
-Currently pursuing the Comptia A+ certifcation. Primarily trying to learn networking and linux. 
+<h2>Certs</h2>
+OCI Foundations Associate 
 
 
 
