@@ -19,7 +19,7 @@
 
 
 
-<h2>Certs</h2>
+<h2>🏅Certs</h2>
 OCI Foundations Associate 
 
 
