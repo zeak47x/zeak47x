@@ -11,6 +11,8 @@
 
 -[Raspberry Pi Bad USB](https://github.com/zeak47x/BADUSB-RASP-PI-PICO) 
 
+-[Password Strength Checker](https://github.com/zeak47x/IndustryPassword) 
+
 <h2>🔵Blue Team Projects</h2>
 
 
