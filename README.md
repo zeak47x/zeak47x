@@ -2,16 +2,17 @@
 
 <h2>👨‍💻 Programing Projects:</h2>
 
--[Python To-do list](https://github.com/zeak47x/To-do-list-PYTHON) 
+-[Password Strength Checker](https://github.com/zeak47x/IndustryPassword) 
 
 -[Python Password Generator](https://github.com/zeak47x/Password-Generator-PYTHON)
 
 -[Base64 Encrypt + Decrypt](https://github.com/zeak47x/base64decrypt)
+
+
+
 <h2>🔴Red Team Projects</h2>
 
 -[Raspberry Pi Bad USB](https://github.com/zeak47x/BADUSB-RASP-PI-PICO) 
-
--[Password Strength Checker](https://github.com/zeak47x/IndustryPassword) 
 
 <h2>🔵Blue Team Projects</h2>
 
