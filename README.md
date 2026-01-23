@@ -9,8 +9,9 @@
 -[Base64 Encrypt + Decrypt](https://github.com/zeak47x/base64decrypt)
 
 <h2>🏅Certs</h2>
-OCI Multicloud Profesional 
-OCI Foundations Associate 
+-OCI Multicloud Profesional
+
+-OCI Foundations Associate 
 
 
 
